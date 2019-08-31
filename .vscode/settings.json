@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Ummu Rasul\\.platformio\\penv\\Scripts;C:\\Users\\Ummu Rasul\\.platformio\\penv;C:\\Program Files\\Python37\\Scripts\\;C:\\Program Files\\Python37\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\dotnet\\;;C:\\Users\\Ummu Rasul\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\Ummu Rasul\\AppData\\Roaming\\npm;C:\\Users\\Ummu Rasul\\AppData\\Local\\Yarn\\bin;C:\\Users\\Ummu Rasul\\.dotnet\\tools;C:\\Program Files\\Python37\\Scripts\\;C:\\Program Files\\Python37\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\dotnet\\;;C:\\Users\\Ummu Rasul\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\Ummu Rasul\\AppData\\Roaming\\npm;C:\\Users\\Ummu Rasul\\AppData\\Local\\Yarn\\bin;C:\\Users\\Ummu Rasul\\.dotnet\\tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
